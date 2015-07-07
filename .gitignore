@@ -1,0 +1,5 @@
+/packages
+/*.suo
+/RandomizedQueuesAndDeques/bin/Debug
+/RandomizedQueuesAndDeques/obj/Debug
+/*.user
