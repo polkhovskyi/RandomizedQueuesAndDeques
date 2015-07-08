@@ -48,6 +48,8 @@
     <Compile Include="Deque.cs" />
     <Compile Include="DequeTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomizedQueue.cs" />
+    <Compile Include="RandomizedQueueTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
